@@ -490,7 +490,7 @@
     'lifetime' => '120',
     'expire_on_close' => false,
     'encrypt' => false,
-    'files' => 'storage\\framework/sessions',
+    'files' => 'C:\\Users\\PC\\Desktop\\blogger\\blogger\\storage\\framework/sessions',
     'connection' => NULL,
     'table' => 'sessions',
     'store' => NULL,
@@ -510,9 +510,9 @@
   array (
     'paths' =>
     array (
-      0 => 'resources\\views',
+      0 => 'C:\\Users\\PC\\Desktop\\blogger\\blogger\\resources\\views',
     ),
-    'compiled' => 'storage\\framework\\views',
+    'compiled' => 'C:\\Users\\PC\\Desktop\\blogger\\blogger\\storage\\framework\\views',
   ),
   'trustedproxy' =>
   array (
